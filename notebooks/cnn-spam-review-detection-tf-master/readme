@@ -3,5 +3,12 @@ MLee 2018/02/27
 Updated and reran python code found from below sites.
 Added comments about the changes in the code.
 
+In order to run:
+  1. download review ZIP file from <http://myleott.com/op-spam.html>
+  2. download "GoogleNews-vectors-negative300.bin.gz" file from
+    <https://code.google.com/archive/p/word2vec/#Pre-trained_word_and_phrase_vectors> 
+    <https://drive.google.com/file/d/0B7XkCwpI5KDYNlNUTTlSS21pQmM/edit>
+  3. place directories and files as shown on the 'folderScreenshot.jpg'
+  
 https://migsena.com/deceptive_spam_part_1/
 https://migsena.com/deceptive-spam-review-detection-with-cnn-using-tensorflow-part-2/
